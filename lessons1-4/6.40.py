@@ -1,0 +1,5 @@
+number = int(input("Введите натуральное число: "))
+first_digit = int(str(number)[0])
+count = str(number).count(str(first_digit))
+print("Первая цифра числа -", first_digit)
+print("Встречается", count, "раз(а)")

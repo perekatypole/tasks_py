@@ -1,0 +1,6 @@
+print(25, end=' ')
+print(25.5, end=' ')
+print(24.8)
+print(26, end=' ')
+print(26.5, end=' ')
+print(25.8)
